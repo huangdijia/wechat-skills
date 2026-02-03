@@ -1,0 +1,15 @@
+{
+  "name": "wechat-skills",
+  "owner": {
+    "name": "Deeka Wong",
+    "url": "https://hdj.me/"
+  },
+  "plugins": [
+    {
+      "name": "wechat",
+      "source": "./",
+      "description": "Claude Skills for WeChat",
+      "version": "1.0.0"
+    }
+  ]
+}

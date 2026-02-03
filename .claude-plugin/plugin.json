@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Create and edit WeChat automation scripts for sending messages and images on macOS. Use when working with WeChat automation scripts.",
   "author": {
-    "name": "Steph Ango",
-    "url": "https://stephango.com/"
+    "name": "Deeka Wong",
+    "url": "https://hdj.me/"
   },
   "repository": "https://github.com/huangdijia/wechat-skills",
   "license": "MIT",

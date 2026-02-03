@@ -15,13 +15,6 @@ Add this skill to your project:
 /plugin install wechat@wechat-skills
 ```
 
-Or manually clone to your project's `.claude/skills` directory:
-
-```bash
-cd .claude/skills
-git clone https://github.com/huangdijia/wechat-skills wechat-skill
-```
-
 ### Codex CLI
 
 Copy the skills/ directory into your Codex skills path (typically ~/.codex/skills). See the Agent Skills specification for the standard skill format.
